@@ -1,0 +1,44 @@
+2024-02-21 07:34:53,081 - INFO - Library Management System Started
+2024-02-21 07:34:55,034 - INFO - Displaying the List of books avaliable
+2024-02-21 07:40:32,326 - INFO - Library Management System Started
+2024-02-21 07:40:53,598 - INFO - New book with Title: NYC, author: nithish, isbn: 123 added
+2024-02-21 07:40:59,077 - INFO - Displaying the List of books avaliable
+2024-02-21 07:41:08,999 - INFO - Returing from Deleting
+2024-02-21 07:41:25,529 - INFO - Deleting the books with 4 identification
+2024-02-21 07:41:33,473 - INFO - Deleting the books with 123 identification
+2024-02-21 07:41:38,673 - INFO - Displaying the List of books avaliable
+2024-02-21 07:41:55,602 - INFO - New book with Title: NUN, author: nithish, isbn: 123 added
+2024-02-21 07:42:03,474 - INFO - Searched the books with 123 identification
+2024-02-21 07:42:11,169 - INFO - Returing from searching
+2024-02-21 07:42:30,015 - INFO - Searched the books with nithihs identification
+2024-02-21 07:42:36,664 - INFO - Searched the books with nithish identification
+2024-02-21 07:43:12,063 - INFO - Updated the books with NUN identification
+2024-02-21 07:43:20,032 - INFO - Displaying the List of books avaliable
+2024-02-21 07:43:25,971 - INFO - Displaying the Users list
+2024-02-21 07:43:33,150 - INFO - Returning from Deleting
+2024-02-21 07:43:38,346 - INFO - Returning from Searching
+2024-02-21 07:44:06,660 - INFO - Cheking out the book with user_id: 1, isbn: 123 identification
+2024-02-21 07:44:11,614 - INFO - Cheking the avaliability of isbn: 123 book
+2024-02-21 07:44:18,186 - INFO - Cheking in the book with isbn: 123 identification
+2024-02-21 07:44:26,009 - INFO - Cheking the avaliability of isbn: 123 book
+2024-03-04 10:36:01,981 - INFO - Library Management System Started
+2024-03-05 15:09:58,801 - INFO - Library Management System Started
+2024-03-05 15:10:15,385 - INFO - Displaying the List of books avaliable
+2024-03-05 15:10:35,391 - INFO - New book with Title: NUN2, author: mithil, isbn: 1234 added
+2024-03-05 15:10:41,242 - INFO - Displaying the List of books avaliable
+2024-03-05 15:11:28,495 - INFO - Searched the books with NUN2 identification
+2024-03-05 15:12:01,935 - INFO - Updated the books with MAGIC identification
+2024-03-05 15:12:07,390 - INFO - Displaying the List of books avaliable
+2024-03-05 15:12:17,315 - INFO - Cheking in the book with isbn: 1234 identification
+2024-03-05 15:12:23,404 - INFO - Displaying the List of books avaliable
+2024-03-05 15:12:32,274 - INFO - Cheking the avaliability of isbn: 1234 book
+2024-03-05 15:12:56,658 - INFO - Cheking out the book with user_id: 7, isbn: 7 identification
+2024-03-05 15:13:02,934 - INFO - Displaying the Users list
+2024-03-05 15:15:06,897 - INFO - Library Management System Started
+2024-03-05 15:15:19,578 - INFO - New user is created with name: Mithil,user ID: 2
+2024-03-05 15:15:23,834 - INFO - Displaying the Users list
+2024-03-05 15:15:40,495 - INFO - Cheking the avaliability of isbn: 123 book
+2024-03-05 15:15:49,317 - INFO - Cheking out the book with user_id: 1, isbn: 123 identification
+2024-03-05 15:15:55,122 - INFO - Cheking the avaliability of isbn: 123 book
+2024-03-05 15:16:05,177 - INFO - Cheking in the book with isbn: 123 identification
+2024-03-05 15:16:08,245 - INFO - Cheking the avaliability of isbn: 123 book

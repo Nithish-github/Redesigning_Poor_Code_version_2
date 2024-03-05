@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "isbn": "123",
+            "title": "NUN",
+            "author": "nithish",
+            "availability": true
+        },
+        {
+            "isbn": "1234",
+            "title": "MAGIC",
+            "author": "mithil",
+            "availability": true
+        }
+    ],
+    "users": [
+        {
+            "user_id": "1",
+            "name": "Kumar",
+            "books_checked_out": []
+        },
+        {
+            "user_id": "2",
+            "name": "Mithil",
+            "books_checked_out": []
+        }
+    ]
+}
